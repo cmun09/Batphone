@@ -16,7 +16,7 @@ The quick specifications:
 The microphone itself has very low gain so in order to increase it, you will need to turn the potentiometer.
 
 Design of the microphone mainly relies on the Knowle's FG sensor. This sensor is rather pricey, going in the ranges for ~$25 USD. The microphones integrity has been tested against a GRAS standard microphone (Unknown model) that displayed a flat frequency response between 1 Hz- 200 kHz with -1db trailing near the end. 
-![FFT comparison between GRAS and Batphone](figures\fft.png)
+![FFT comparison between GRAS and Batphone](https://github.com/cmun09/Batphone/blob/master/figures/fft.png)
 
 My microphone that I have developed is not designed to be used as an replacement microphone for standard microphones but a portable, cheaper, and smaller alternative to the commercial ultrasonic microphones aimed at researches alike.
 
