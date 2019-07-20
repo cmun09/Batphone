@@ -1,0 +1,12 @@
+Part,Value,Device,Package,Description,ALLIED_NUMBER,ALLIED_PRICE-STOCK,AVAILABILITY,DESCRIPTION,HEIGHT,MANUFACTURER_NAME,MANUFACTURER_PART_NUMBER,MF
+C1,100pF,C-USC0603,C0603,"CAPACITOR, American symbol",,,,,,,,
+C2,100pF,C-USC0603,C0603,"CAPACITOR, American symbol",,,,,,,,
+C3,10nF,C-USC0603,C0603,"CAPACITOR, American symbol",,,,,,,,
+C4,10nF,C-USC0603,C0603,"CAPACITOR, American symbol",,,,,,,,
+IC1,MCP6291T-E_OT,MCP6291T-E_OT,SOT95P280X145-5N,"Single 10MHz OpAmp,MCP6291T-E/OT",70046916,https://www.alliedelec.com/microchiptechnologyinc-mcp6291t-e-ot/70046916/,,"Single 10MHz OpAmp,MCP6291T-E/OT",1.45mm,Microchip,MCP6291T-E/OT,
+IC3,MCP1703CB,MCP1703CB,SOT23,"250 mA, 16V, Low Quiescent Current LDO Regulator",,,,,,,,
+R1,79.6K,R-US_R0603,R0603,"RESISTOR, American symbol",,,,,,,,
+R2,80k,R-US_R0603,R0603,"RESISTOR, American symbol",,,,,,,,
+R3,2k,R-US_R0603,R0603,"RESISTOR, American symbol",,,,,,,,
+R6,TC33X-2-103E,TC33X-2-103E,35WR,http://octopart.com/tc33x-2-103e-bourns-68150,,,Unavailable, Res Trimmer 10K Ohm 25% 0.1W_1/10W_ 1_Elec_/1_Mech_Turn _3 X 3.8mm_ Foot Print SMD Embossed T/R ,,,,Bourns
+SV1,,MA04-1,MA04-1,PIN HEADER,,,,,,,,
