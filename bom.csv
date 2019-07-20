@@ -1,12 +1,12 @@
-Part,Value,Device,Package,Description,ALLIED_NUMBER,ALLIED_PRICE-STOCK,AVAILABILITY,DESCRIPTION,HEIGHT,MANUFACTURER_NAME,MANUFACTURER_PART_NUMBER,MF
-C1,100pF,C-USC0603,C0603,"CAPACITOR, American symbol",,,,,,,,
-C2,100pF,C-USC0603,C0603,"CAPACITOR, American symbol",,,,,,,,
-C3,10nF,C-USC0603,C0603,"CAPACITOR, American symbol",,,,,,,,
-C4,10nF,C-USC0603,C0603,"CAPACITOR, American symbol",,,,,,,,
-IC1,MCP6291T-E_OT,MCP6291T-E_OT,SOT95P280X145-5N,"Single 10MHz OpAmp,MCP6291T-E/OT",70046916,https://www.alliedelec.com/microchiptechnologyinc-mcp6291t-e-ot/70046916/,,"Single 10MHz OpAmp,MCP6291T-E/OT",1.45mm,Microchip,MCP6291T-E/OT,
-IC3,MCP1703CB,MCP1703CB,SOT23,"250 mA, 16V, Low Quiescent Current LDO Regulator",,,,,,,,
-R1,79.6K,R-US_R0603,R0603,"RESISTOR, American symbol",,,,,,,,
-R2,80k,R-US_R0603,R0603,"RESISTOR, American symbol",,,,,,,,
-R3,2k,R-US_R0603,R0603,"RESISTOR, American symbol",,,,,,,,
-R6,TC33X-2-103E,TC33X-2-103E,35WR,http://octopart.com/tc33x-2-103e-bourns-68150,,,Unavailable, Res Trimmer 10K Ohm 25% 0.1W_1/10W_ 1_Elec_/1_Mech_Turn _3 X 3.8mm_ Foot Print SMD Embossed T/R ,,,,Bourns
-SV1,,MA04-1,MA04-1,PIN HEADER,,,,,,,,
+Part,Value,Device,Package,Description,Note,Link,AVAILABILITY,DESCRIPTION,HEIGHT,MANUFACTURER_NAME,MANUFACTURER_PART_NUMBER,MF
+C1,100pF,C-USC0603,C0603,"CAPACITOR, American symbol",Low pass,https://www.digikey.com/product-detail/en/walsin-technology-corporation/0603N101F101CT/1292-1472-1-ND/9355476,,,,,,
+C2,100pF,C-USC0603,C0603,"CAPACITOR, American symbol",high pass,https://www.digikey.com/product-detail/en/walsin-technology-corporation/0603N101F101CT/1292-1472-1-ND/9355476,,,,,,
+C3,.1uF,C-USC0603,C0603,"CAPACITOR, American symbol",filter cap for opamp,https://www.digikey.com/product-detail/en/walsin-technology-corporation/0603B104J500CT/1292-1391-1-ND/9355395,,,,,,
+C4,1uF,C-USC0603,C0603,"CAPACITOR, American symbol",Filter cap for Regulator,https://www.digikey.com/product-detail/en/samsung-electro-mechanics/CL10A105KA8NNNC/1276-1102-1-ND/3889188,,,,,,
+IC1,MCP6291T-E_OT,MCP6291T-E_OT,SOT95P280X145-5N,"Single 10MHz OpAmp,MCP6291T-E/OT",opamp,https://www.digikey.com/product-detail/en/microchip-technology/MCP6291T-E-OT/MCP6291T-E-OTCT-ND/857432,,"Single 10MHz OpAmp,MCP6291T-E/OT",1.45mm,Microchip,MCP6291T-E/OT,
+IC3,MCP1703CB,MCP1703CB,SOT23,"250 mA, 16V, Low Quiescent Current LDO Regulator",voltage regulator,https://www.digikey.com/product-detail/en/microchip-technology/MCP1700T-2002E-TT/MCP1700T-2002E-TTCT-ND/8638159,,,,,,
+R1,10.6k,R-US_R0603,R0603,"RESISTOR, American symbol",low pass,https://www.digikey.com/product-detail/en/stackpole-electronics-inc/RMCF0603FT10K5/RMCF0603FT10K5CT-ND/1943059,,,,,,
+R2,80k,R-US_R0603,R0603,"RESISTOR, American symbol",high pass,https://www.digikey.com/product-detail/en/yageo/RC0603FR-0780K6L/311-80.6KHRCT-ND/730343,,,,,,
+R3,2k,R-US_R0603,R0603,"RESISTOR, American symbol",r_i,https://www.digikey.com/product-detail/en/yageo/RC0603FR-072KL/311-2.00KHRCT-ND/729956,,,,,,
+R6,TC33X-2-103E,TC33X-2-103E,35WR,http://octopart.com/tc33x-2-103e-bourns-68150,r_f,https://www.digikey.com/product-detail/en/bourns-inc/TC33X-2-104E/TC33X-104EDKR-ND/1785032,Unavailable, Res Trimmer 10K Ohm 25% 0.1W_1/10W_ 1_Elec_/1_Mech_Turn _3 X 3.8mm_ Foot Print SMD Embossed T/R ,,,,Bourns
+SV1,4 pos,MA04-1,MA04-1,PIN HEADER,regular 2.54mm pin header,,,,,,,
